@@ -1,0 +1,1 @@
+export { ModernPopupPage } from "./ModernPopupPage";

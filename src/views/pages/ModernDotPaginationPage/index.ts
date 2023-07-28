@@ -1,0 +1,1 @@
+export { ModernDotPaginationPage } from "./ModernDotPaginationPage";

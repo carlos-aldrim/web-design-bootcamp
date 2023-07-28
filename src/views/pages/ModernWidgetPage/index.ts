@@ -1,0 +1,1 @@
+export { ModernWidgetPage } from "./ModernWidgetPage";

@@ -1,0 +1,1 @@
+export { ResizableFooterPage } from "./ResizableFooterPage";

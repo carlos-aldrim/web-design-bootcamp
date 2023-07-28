@@ -1,0 +1,1 @@
+export { SkeletonLoadingPage } from "./SkeletonLoadingPage";

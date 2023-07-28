@@ -1,0 +1,1 @@
+export { ModernSignupPage } from "./ModernSignupPage";
